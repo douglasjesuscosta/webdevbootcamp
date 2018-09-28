@@ -1,2 +1,2 @@
 # webdevbootcamp
-Project from course "The web developer bootcamo"
+Project from course "The web developer bootcamp"
